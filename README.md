@@ -115,8 +115,7 @@
 <br>
 
 - 🌐 **Active Contributor**: I’m an active open-source contributor, particularly within the **Kubernetes ecosystem**.
-- 🔧 **Project Management**: I manage and contribute to the [KubeSlice](https://github.com/kubeslice/kubeslice) project, a **CNCF-certified sandbox project** that facilitates multi-cluster Kubernetes networking.
-- 🎓 **Community Engagement**: Hosted a hands-on **KubeSlice** workshop at **Kubernetes Community Days (KCD) Pune 2024**, showcasing KubeSlice's applications in multi-cluster networking.
+
 - 🛠️ **Key Contributions**: 
   - **GitOps Automation**: Developed a GitOps approach using **Ansible** to automate KubeSlice deployments.
   - **Pipeline Management**: Led core build and release pipelines to streamline development and enhance deployment efficiency.
