@@ -14,27 +14,27 @@
 
 ## 🚀 About Me
 
-```python
-class VenkateshPoola:
-    def __init__(self):
-        self.name = "Venkatesh Poola"
-        self.role = "Senior DevOps & SRE Engineer"
-        self.experience = "7+ years"
-        self.location = "India"
-        self.passion = "Building reliable, scalable systems"
-        
-    def current_focus(self):
-        return [
-            "Multi-cloud infrastructure automation",
-            "Kubernetes ecosystem contributions", 
-            "CI/CD pipeline optimization",
-            "Site reliability engineering"
-        ]
-        
-    def fun_fact(self):
-        return "I once debugged a production issue at 3 AM and it turned out to be a missing semicolon 😅"
-```
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" alt="Hello World" />
+</div>
 
+Hey there! I'm **Venkatesh Poola**, a Senior DevOps & SRE Engineer with **7+ years** of experience building reliable, scalable systems. Based in India, I'm passionate about making infrastructure that "just works" - no magic required! ☕
+
+### 🎯 What I'm Currently Focused On
+- **Multi-cloud infrastructure automation** across AWS, Azure, and GCP
+- **Kubernetes ecosystem contributions** and CNCF projects
+- **CI/CD pipeline optimization** for faster, safer deployments
+- **Site reliability engineering** - because uptime matters
+- **Making deployments boring** (in the best possible way!)
+
+### 🛠️ My Tech Arsenal
+**Languages:** Python, Java, Go, Bash, JavaScript  
+**Cloud Platforms:** AWS, Azure, GCP  
+**DevOps Tools:** Kubernetes, Docker, Terraform, Ansible  
+**Monitoring:** Prometheus, Grafana, ELK Stack  
+
+### 💡 My Philosophy
+> *"If it's not automated, it's not done right!"* 🤖
 ---
 
 ## 🛠️ Tech Stack
@@ -158,14 +158,6 @@ Set up a complete monitoring solution with Prometheus, Grafana, and ELK stack. I
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iam-venkateshpoola&theme=tokyonight&hide_border=true&custom_title=GitHub%20Activity%20Graph" alt="GitHub Activity Graph" />
-</div>
-
----
-
-## 🎮 Fun Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=iam-venkateshpoola&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" />
 </div>
 
 ---
